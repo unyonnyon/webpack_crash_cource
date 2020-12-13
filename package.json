@@ -1,0 +1,25 @@
+{
+  "name": "webpack_crash_cource",
+  "version": "1.0.0",
+  "description": "webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unyonnyon/webpack_crash_cource.git"
+  },
+  "keywords": [],
+  "author": "Yoshihiro Muraji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unyonnyon/webpack_crash_cource/issues"
+  },
+  "homepage": "https://github.com/unyonnyon/webpack_crash_cource#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.2.1"
+  }
+}
