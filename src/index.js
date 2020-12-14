@@ -1,6 +1,7 @@
 import _ from "lodash";
 import Lion, { byDouble, TWO } from "./utilities";
 import "./style.css";
+import "./style.scss";
 import logo from "./king035.jpg";
 
 function component() {
